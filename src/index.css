@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@font-face {
+    font-family: font1;
+    src: url(../src/assets/font/HostGrotesk-VariableFont_wght.ttf);
+}
+
+body{
+    background-color: #181717;
+    color: #F4EFE7;
+    font-family: font1;
+}
