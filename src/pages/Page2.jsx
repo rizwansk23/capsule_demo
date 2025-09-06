@@ -40,7 +40,6 @@ gsap.registerPlugin(ScrollTrigger)
         scrollTrigger:{
           trigger:card,
           scrub:1,
-          markers:true,
           start:'top 0%',
           end:'bottom -0%',
         }
